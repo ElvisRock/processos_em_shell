@@ -13,3 +13,4 @@ exibe o arquivo no diretório.
    - Se o arquivo não existir, o script cria o arquivo e informa ao usuário sobre a criação.
 3. **Verificação de sucesso da criação**: Após criar o arquivo, o script confirma se a operação foi realizada com sucesso e, em seguida, exibe o arquivo no diretório.
 
+# Fim 
