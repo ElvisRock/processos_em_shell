@@ -17,3 +17,4 @@ Este script realiza uma série de operações em arquivos e diretórios, incluin
 11. **Concatenar o conteúdo do primeiro arquivo no terceiro arquivo**: O conteúdo do primeiro arquivo é concatenado ao final do terceiro arquivo.
 12. **Mover o terceiro arquivo para a pasta de backup**: O script cria uma pasta chamada "backup" e move o terceiro arquivo para essa pasta.
 
+# Fim 
