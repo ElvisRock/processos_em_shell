@@ -20,3 +20,10 @@ wsl --install
 ```
 <img width="936" height="412" alt="image" src="https://github.com/user-attachments/assets/d6bd44e3-5ba2-464a-8f3c-3b38dcecf023" />
 
+____
+Execution
+
+
+____
+End
+
