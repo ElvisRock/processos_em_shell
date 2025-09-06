@@ -23,7 +23,18 @@ wsl --install
 ____
 Execution
 
+###### Comando de ADM para executar as tarefas, caso seja necessário
+```
+sudo su 
+```
 
+
+
+# End
 ____
-End
+
+###### Links and References
+    - 
+    - 
+    
 
