@@ -24,6 +24,14 @@ Execution
 ```
 sudo su 
 ```
+##### Para torná-lo executável
+```
+chmod a+x (nome_do_arquivo)
+```
+#### Então
+```
+./nome_do_arquivo
+```
 
 
 
