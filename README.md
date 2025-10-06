@@ -39,8 +39,7 @@ chmod a+x (nome_do_arquivo)
 
 ### Links and References
 
-    * 
-    * 
-    * 
+    * Linux Command Line and Shell Scripting Bible
+    * [Boson Treinamentos](https://www.youtube.com/@bosontreinamentos)
     
 
